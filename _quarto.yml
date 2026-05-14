@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Olawale Olaniyan"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: projects.qmd
+        text: Projects
+
+      - href: blog.qmd
+        text: Blog
+
+      - href: about.qmd
+        text: About
+
+    right:
+      - icon: github
+        href: https://github.com/DataWale
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
+
+editor: visual
