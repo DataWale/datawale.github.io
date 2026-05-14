@@ -1,0 +1,82 @@
+---
+title: ""
+---
+
+# Olawale Olaniyan
+
+## Biostatistics & Data Science Researcher
+
+I use statistical modeling, machine learning, and epidemiological analysis
+to solve healthcare and public health problems.
+
+[View Projects](projects.qmd){.btn .btn-primary}
+[GitHub](https://github.com/DataWale){.btn .btn-outline-dark}
+
+---
+
+## About Me
+
+I am passionate about using data science and statistical methods
+to solve healthcare and public health challenges.
+
+My interests include:
+- Machine Learning
+- Biostatistics
+- Epidemiology
+- Predictive Modeling
+- Healthcare Analytics
+
+---
+
+## Featured Projects
+
+### Heart Disease Prediction
+
+Built machine learning models to predict cardiovascular disease risk
+using clinical data.
+
+**Tools:** Python, Scikit-learn, Pandas
+
+---
+
+### Human Stress Prediction
+
+Analyzed behavioral and physiological data to identify stress indicators.
+
+**Tools:** Python, Machine Learning
+
+---
+
+### Cancer Incidence Analysis
+
+Performed statistical analysis and visualization of cancer trends
+using epidemiological datasets.
+
+**Tools:** R, ggplot2, Statistical Modeling
+
+---
+
+## Skills
+
+### Programming
+- Python
+- R
+- SQL
+
+### Data Science
+- Machine Learning
+- Statistical Modeling
+- Data Visualization
+
+### Tools
+- Git
+- Quarto
+- Tableau
+- Power BI
+
+---
+
+## Contact
+
+- GitHub: https://github.com/DataWale
+- Email: your-email@example.com
