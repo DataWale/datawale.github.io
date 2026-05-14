@@ -1,0 +1,57 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Heart Disease Prediction
+
+### Objective
+Predict cardiovascular disease risk using machine learning models.
+
+### Methods
+- Logistic Regression
+- Random Forest
+- XGBoost
+
+### Results
+XGBoost achieved strong predictive performance on test data.
+
+### Tools
+Python, Scikit-learn, Pandas, Matplotlib
+
+[View on GitHub](https://github.com/DataWale)
+
+---
+
+## Human Stress Prediction
+
+### Objective
+Analyze stress indicators using machine learning techniques.
+
+### Methods
+- Data preprocessing
+- Feature engineering
+- Classification models
+
+### Tools
+Python, Pandas, Scikit-learn
+
+[View on GitHub](https://github.com/DataWale)
+
+---
+
+## Cancer Incidence Analysis
+
+### Objective
+Study cancer trends and incidence patterns using epidemiological data.
+
+### Methods
+- Statistical analysis
+- Visualization
+- Trend analysis
+
+### Tools
+R, ggplot2, dplyr
+
+[View on GitHub](https://github.com/DataWale)
