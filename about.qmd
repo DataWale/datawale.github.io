@@ -1,0 +1,24 @@
+---
+title: "About"
+---
+
+# About Me
+
+I am a biostatistics researcher interested in
+healthcare analytics, epidemiology, and predictive modeling.
+
+My work focuses on applying statistical and machine learning methods
+to improve healthcare outcomes and public health decision-making.
+
+## Research Interests
+
+- Healthcare Data Science
+- Epidemiology
+- Machine Learning
+- Statistical Modeling
+- Public Health Analytics
+
+## Career Goals
+
+I aim to contribute to impactful healthcare research by combining
+statistics, machine learning, and real-world data analysis.
