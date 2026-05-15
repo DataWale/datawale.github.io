@@ -2,20 +2,18 @@
 title: "Projects"
 ---
 
-# Projects
-
 ## Heart Disease Prediction
 
 ### Objective
-Predict cardiovascular disease risk using machine learning models.
+Compare binary classification machine learning methods
 
 ### Methods
 - Logistic Regression
-- Random Forest
-- XGBoost
+- Linear Discriminant Analysis (LDA)
+- Quadratic Discriminant Analysis (QDA)
 
 ### Results
-XGBoost achieved strong predictive performance on test data.
+Type of chest pain, number of major vessels, and blood disorder were found to be the potential risk factors that could cause heart disease and the algorithm with the lowest test error rate after 5-fold cross validation was Linear Discriminant Analysis (LDA).
 
 ### Tools
 Python, Scikit-learn, Pandas, Matplotlib
