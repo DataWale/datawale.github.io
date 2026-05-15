@@ -12,6 +12,9 @@
 
 ## Biostatistics & Data Science Researcher
 
+Transforming healthcare data into actionable insights through
+statistics, machine learning, and epidemiological research.
+
 I use statistical modeling, machine learning, and epidemiological analysis
 to solve healthcare and public health problems.
 
@@ -28,9 +31,9 @@ I am passionate about using data science and statistical methods
 to solve healthcare and public health challenges.
 
 My interests include:
+- Bayesian Statistical Analysis
 - Machine Learning
 - Biostatistics
-- Epidemiology
 - Predictive Modeling
 
 ---
