@@ -3,8 +3,6 @@ project:
   output-dir: docs
 
 website:
-  title: "Olawale Olaniyan"
-
   navbar:
     left:
       - href: index.qmd
@@ -18,6 +16,13 @@ website:
 
       - href: about.qmd
         text: About
+
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/olawale-olaniyan/
+
+      - icon: github
+        href: https://github.com/DataWale
 
 format:
   html:
