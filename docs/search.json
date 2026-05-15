@@ -4,28 +4,28 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Predict cardiovascular disease risk using machine learning models.\n\n\n\n\nLogistic Regression\nRandom Forest\nXGBoost\n\n\n\n\nXGBoost achieved strong predictive performance on test data.\n\n\n\nPython, Scikit-learn, Pandas, Matplotlib\nView on GitHub\n\n\n\n\n\n\n\nAnalyze stress indicators using machine learning techniques.\n\n\n\n\nData preprocessing\nFeature engineering\nClassification models\n\n\n\n\nPython, Pandas, Scikit-learn\nView on GitHub\n\n\n\n\n\n\n\nStudy cancer trends and incidence patterns using epidemiological data.\n\n\n\n\nStatistical analysis\nVisualization\nTrend analysis\n\n\n\n\nR, ggplot2, dplyr\nView on GitHub"
+    "text": "Compare binary classification machine learning methods\n\n\n\n\nLogistic Regression\nLinear Discriminant Analysis (LDA)\nQuadratic Discriminant Analysis (QDA)\n\n\n\n\nType of chest pain, number of major vessels, and blood disorder were found to be the potential risk factors that could cause heart disease and the algorithm with the lowest test error rate after 5-fold cross validation was Linear Discriminant Analysis (LDA).\n\n\n\nPython, Scikit-learn, Pandas, Matplotlib\nView on GitHub"
   },
   {
     "objectID": "projects.html#heart-disease-prediction",
     "href": "projects.html#heart-disease-prediction",
     "title": "Projects",
     "section": "",
-    "text": "Predict cardiovascular disease risk using machine learning models.\n\n\n\n\nLogistic Regression\nRandom Forest\nXGBoost\n\n\n\n\nXGBoost achieved strong predictive performance on test data.\n\n\n\nPython, Scikit-learn, Pandas, Matplotlib\nView on GitHub"
+    "text": "Compare binary classification machine learning methods\n\n\n\n\nLogistic Regression\nLinear Discriminant Analysis (LDA)\nQuadratic Discriminant Analysis (QDA)\n\n\n\n\nType of chest pain, number of major vessels, and blood disorder were found to be the potential risk factors that could cause heart disease and the algorithm with the lowest test error rate after 5-fold cross validation was Linear Discriminant Analysis (LDA).\n\n\n\nPython, Scikit-learn, Pandas, Matplotlib\nView on GitHub"
   },
   {
     "objectID": "projects.html#human-stress-prediction",
     "href": "projects.html#human-stress-prediction",
     "title": "Projects",
-    "section": "",
-    "text": "Analyze stress indicators using machine learning techniques.\n\n\n\n\nData preprocessing\nFeature engineering\nClassification models\n\n\n\n\nPython, Pandas, Scikit-learn\nView on GitHub"
+    "section": "Human Stress Prediction",
+    "text": "Human Stress Prediction\n\nObjective\nAnalyze stress indicators using machine learning techniques.\n\n\nMethods\n\nData preprocessing\nFeature engineering\nClassification models\n\n\n\nTools\nPython, Pandas, Scikit-learn\nView on GitHub"
   },
   {
     "objectID": "projects.html#cancer-incidence-analysis",
     "href": "projects.html#cancer-incidence-analysis",
     "title": "Projects",
-    "section": "",
-    "text": "Study cancer trends and incidence patterns using epidemiological data.\n\n\n\n\nStatistical analysis\nVisualization\nTrend analysis\n\n\n\n\nR, ggplot2, dplyr\nView on GitHub"
+    "section": "Cancer Incidence Analysis",
+    "text": "Cancer Incidence Analysis\n\nObjective\nStudy cancer trends and incidence patterns using epidemiological data.\n\n\nMethods\n\nStatistical analysis\nVisualization\nTrend analysis\n\n\n\nTools\nR, ggplot2, dplyr\nView on GitHub"
   },
   {
     "objectID": "blog.html",
