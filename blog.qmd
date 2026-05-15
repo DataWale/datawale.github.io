@@ -2,12 +2,4 @@
 title: "Blog"
 ---
 
-# Blog
-
-Coming soon.
-
-Future articles will cover:
-- Machine Learning in Healthcare
-- Statistical Modeling
-- Epidemiological Research
-- Data Science Tutorials
+# Check back later
