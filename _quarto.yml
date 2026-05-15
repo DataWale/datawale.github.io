@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Olawale Olaniyan"
@@ -18,14 +19,7 @@ website:
       - href: about.qmd
         text: About
 
-    right:
-      - icon: github
-        href: https://github.com/DataWale
-
 format:
   html:
     theme: cosmo
-    toc: true
     css: styles.css
-
-editor: visual
