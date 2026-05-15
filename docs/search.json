@@ -32,28 +32,28 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blog\nComing soon.\nFuture articles will cover: - Machine Learning in Healthcare - Statistical Modeling - Epidemiological Research - Data Science Tutorials"
+    "text": "Please check back later."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "I am a biostatistics researcher interested in healthcare analytics, epidemiology, and predictive modeling.\nMy work focuses on applying statistical and machine learning methods to improve healthcare outcomes and public health decision-making.\n\n\n\nHealthcare Data Science\nEpidemiology\nMachine Learning\nStatistical Modeling\nPublic Health Analytics\n\n\n\n\nI aim to contribute to impactful healthcare research by combining statistics, machine learning, and real-world data analysis."
+    "text": "I am a biostatistics researcher interested in healthcare analytics, epidemiology, and predictive modeling.\nMy work focuses on applying statistical and machine learning methods to improve healthcare outcomes and public health decision-making."
   },
   {
     "objectID": "about.html#research-interests",
     "href": "about.html#research-interests",
-    "title": "About",
-    "section": "",
-    "text": "Healthcare Data Science\nEpidemiology\nMachine Learning\nStatistical Modeling\nPublic Health Analytics"
+    "title": "About Me",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nHealthcare Data Science\nEpidemiology\nMachine Learning\nStatistical Modeling\nPublic Health Analytics"
   },
   {
     "objectID": "about.html#career-goals",
     "href": "about.html#career-goals",
-    "title": "About",
-    "section": "",
-    "text": "I aim to contribute to impactful healthcare research by combining statistics, machine learning, and real-world data analysis."
+    "title": "About Me",
+    "section": "Career Goals",
+    "text": "Career Goals\nI aim to contribute to impactful healthcare research by combining statistics, machine learning, and real-world data analysis."
   },
   {
     "objectID": "index.html",
