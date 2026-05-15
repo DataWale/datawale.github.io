@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Predict cardiovascular disease risk using machine learning models.\n\n\n\n\nLogistic Regression\nRandom Forest\nXGBoost\n\n\n\n\nXGBoost achieved strong predictive performance on test data.\n\n\n\nPython, Scikit-learn, Pandas, Matplotlib\nView on GitHub\n\n\n\n\n\n\n\nAnalyze stress indicators using machine learning techniques.\n\n\n\n\nData preprocessing\nFeature engineering\nClassification models\n\n\n\n\nPython, Pandas, Scikit-learn\nView on GitHub\n\n\n\n\n\n\n\nStudy cancer trends and incidence patterns using epidemiological data.\n\n\n\n\nStatistical analysis\nVisualization\nTrend analysis\n\n\n\n\nR, ggplot2, dplyr\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#heart-disease-prediction",
+    "href": "projects.html#heart-disease-prediction",
+    "title": "Projects",
+    "section": "",
+    "text": "Predict cardiovascular disease risk using machine learning models.\n\n\n\n\nLogistic Regression\nRandom Forest\nXGBoost\n\n\n\n\nXGBoost achieved strong predictive performance on test data.\n\n\n\nPython, Scikit-learn, Pandas, Matplotlib\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#human-stress-prediction",
+    "href": "projects.html#human-stress-prediction",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyze stress indicators using machine learning techniques.\n\n\n\n\nData preprocessing\nFeature engineering\nClassification models\n\n\n\n\nPython, Pandas, Scikit-learn\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#cancer-incidence-analysis",
+    "href": "projects.html#cancer-incidence-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Study cancer trends and incidence patterns using epidemiological data.\n\n\n\n\nStatistical analysis\nVisualization\nTrend analysis\n\n\n\n\nR, ggplot2, dplyr\nView on GitHub"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog\nComing soon.\nFuture articles will cover: - Machine Learning in Healthcare - Statistical Modeling - Epidemiological Research - Data Science Tutorials"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a biostatistics researcher interested in healthcare analytics, epidemiology, and predictive modeling.\nMy work focuses on applying statistical and machine learning methods to improve healthcare outcomes and public health decision-making.\n\n\n\nHealthcare Data Science\nEpidemiology\nMachine Learning\nStatistical Modeling\nPublic Health Analytics\n\n\n\n\nI aim to contribute to impactful healthcare research by combining statistics, machine learning, and real-world data analysis."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "",
+    "text": "Healthcare Data Science\nEpidemiology\nMachine Learning\nStatistical Modeling\nPublic Health Analytics"
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About",
+    "section": "",
+    "text": "I aim to contribute to impactful healthcare research by combining statistics, machine learning, and real-world data analysis."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Olawale Olaniyan",
+    "section": "",
+    "text": "I use statistical modeling, machine learning, and epidemiological analysis to solve healthcare and public health problems.\nView Projects\n\n\n\n\nI am passionate about using data science and statistical methods to solve healthcare and public health challenges.\nMy interests include: - Machine Learning - Biostatistics - Epidemiology - Predictive Modeling\n\n\n\n\n\n\nMachine learning analysis of cardiovascular disease risk.\n\n\n\nPredictive modeling for stress analysis.\n\n\n\nStatistical analysis of cancer trends."
+  },
+  {
+    "objectID": "index.html#biostatistics-data-science-researcher",
+    "href": "index.html#biostatistics-data-science-researcher",
+    "title": "Olawale Olaniyan",
+    "section": "",
+    "text": "I use statistical modeling, machine learning, and epidemiological analysis to solve healthcare and public health problems.\nView Projects"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Olawale Olaniyan",
+    "section": "",
+    "text": "I am passionate about using data science and statistical methods to solve healthcare and public health challenges.\nMy interests include: - Machine Learning - Biostatistics - Epidemiology - Predictive Modeling"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Olawale Olaniyan",
+    "section": "",
+    "text": "Machine learning analysis of cardiovascular disease risk.\n\n\n\nPredictive modeling for stress analysis.\n\n\n\nStatistical analysis of cancer trends."
+  }
+]
